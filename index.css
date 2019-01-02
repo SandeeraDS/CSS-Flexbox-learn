@@ -1,0 +1,71 @@
+/* .container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+  /* height: 100%; */
+/* flex direction  - row and column. default row */
+/* flex-direction: row; */
+/* justify items along the main axes 
+  flex-start- items squeeze together in the start of the main axes-left side
+  *space-around
+  *flex-end
+  *center
+  *space-around
+  *space-between
+  *space-evenly
+  */
+
+/* justify-content: flex-end; */
+
+/* aligning item inside the main block - center,strech,flex-start,flex-end */
+/* align-items: stretch; */
+/* } */
+/* flex property help to change the width of the items. we can adjest for differbt width in flex boxes */
+/* .container > div {
+  flex: 1;
+} */
+
+/*   */
+
+/* 
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex; 
+
+    /*  arranege main stack verically row,column */
+/* flex-direction: column;
+  } */
+/* 
+.container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+  /* wrap , no-wrap */
+/* flex-wrap: nowrap;
+}
+
+.container > div {
+  width: 300px;
+} */
+
+/* .container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+}
+
+.home {
+  flex: 1;
+}
+
+.logout {
+  flex: 1;
+}
+
+/* flex-basic - set base width of a element  */ 
+/* flex-grow - distrubute the layout when grow the display  */
+/* flex-shrink - distribution when when shrink the display  */
+
+/* 
+flex - grow shrink basic
+*/ 
+
+
+/* order -   arrange item in the main axes   - use postive and negative numbers*/
